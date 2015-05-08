@@ -1,0 +1,2 @@
+Django==1.8.1
+-e git://github.com/stefanfoulis/django-filer@04b4473cbb563470b077aadc8ff55a99c9ddbfd1#egg=django_filer-develop
